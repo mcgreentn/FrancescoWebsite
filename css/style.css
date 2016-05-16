@@ -50,7 +50,7 @@ body a:hover{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:600px;
+	min-height:450px;
 	position:relative;
 }
 .banner-info {
@@ -60,7 +60,7 @@ body a:hover{
 	-moz-background-size:4px;
 	-o-background-size:4px;
 	-ms-background-size:4px;
-	min-height:600px;
+	min-height:450px;
 	padding:2em 0;
 }
 .logo {
@@ -264,7 +264,7 @@ div#bs-example-navbar-collapse-1 {
 /*--//top-nav--*/
 /*--welcome--*/
 .welcome {
-    margin: 15em 0 5em 0;
+    margin: 4em 0 5em 0;
 }
 h3.title {
     font-size: 3.5em;
@@ -477,7 +477,7 @@ img.zoom-img:hover{
 .menu {
     padding: 13em 0 5em;
     position: relative;
-    background-color: #CADDE1;
+    background-color: #E9F1F3;
 }
 .menu-tag {
     position: absolute;
@@ -516,13 +516,13 @@ img.zoom-img:hover{
     margin: 0;
     color: #7DB0BB;
 }
-.menu-text-midle {
+.menu-text-middle {
   float: left;
   width: 20%;
   position: relative;
   height: 19px;
 }
-.menu-text-midle span.line{
+.menu-text-middle span.line{
   position: absolute;
   top: 67%;
   left: 0%;
@@ -1573,7 +1573,7 @@ div#bs-example-navbar-collapse-1 {
     width: 53%;
 }
 .banner-text {
-    left: 28%;
+    left: 25%;
 }
 .banner-text {
     padding: 3em 4em;
@@ -1617,7 +1617,7 @@ div#bs-example-navbar-collapse-1 {
 }
 @media(max-width:991px){
 .ribbon {
-    width:29%;
+    width:50%;
 }
 div#bs-example-navbar-collapse-1 {
     width: 70%;
@@ -2043,7 +2043,7 @@ button.navbar-toggle.collapsed, .navbar-toggle {
 }
 @media(max-width:480px){
 .ribbon {
-    width: 45%;
+    width: 50%;
 }
 .logo h2 {
     font-size: 1.1em;
@@ -2307,7 +2307,7 @@ h3.title {
     margin-left: 3em;
     margin-top: 0.2em;
 }
-.menu-text-midle {
+.menu-text-middle {
     width: 11%;
 }
 .menu-text-right {
