@@ -77,6 +77,26 @@ body a:hover{
 	z-index: 100;
 }
 
+.myCarousel h2, h4, p
+{
+	text-align: center;
+}
+
+.myCarousel h2
+{
+	font-size: 1em;
+}
+
+.myCarousel h4
+{
+	font-size: 1em;
+}
+
+#menu-position-grid
+{
+	text-align: center;
+	padding-bottom:0.5em;
+}
 /* Main menu style */
 .cbp-hsmenu-wrapper .cbp-hsmenu {
 	width: 90%;
@@ -609,7 +629,7 @@ div#bs-example-navbar-collapse-1 {
 	padding-left: 4px;
 }
 .navbar-nav > li > a {
-    padding: 10px 25px;
+    padding: 10px 15px;
     line-height: 1.5em;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -899,7 +919,7 @@ img.zoom-img:hover{
 /*--//services--*/
 /*--menu--*/
 .menu {
-    padding: 2em 0 5em;
+    padding: 2em 0 2em;
     position: relative;
     background-color: #E9F1F3;
 }
